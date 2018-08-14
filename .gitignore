@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*.json
+*.log
+*.pyc
+
+/in
+/out
